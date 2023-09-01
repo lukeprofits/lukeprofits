@@ -7,7 +7,7 @@
 <!-- info about me -->
 # About Me
 - Everything I publish with an MIT license is free to use, copy, sell, distribute, whatever you want. Credit is appreciated, not required. 
-- Most of my public repos focus on XMR, which I believe better embody Bitcoin's original intent as a peer-to-peer electronic cash system.
+- Most of my public repos focus on XMR, which better embodies Bitcoin's original intent as a peer-to-peer electronic cash system.
 <br><br>
 
 
