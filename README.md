@@ -37,7 +37,6 @@
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 
 </p>
 
