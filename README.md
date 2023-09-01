@@ -13,11 +13,11 @@
 
 # Donate
 
-XMR: `4At3X5rvVypTofgmueN9s9QtrzdRe5BueFrskAZi17BoYbhzysozzoMFB6zWnTKdGC6AxEAbEE5czFR3hbEEJbsm4hCeX2S`<br>
-BTC: `1ACCQMwHYUkA1v449DvQ9t6dm3yv1enN87`<br>
-<!--LTC: ``<br>-->
-BCH: `1ACCQMwHYUkA1v449DvQ9t6dm3yv1enN87`<br>
-<!--ETH: ``<br>-->
+- XMR: `4At3X5rvVypTofgmueN9s9QtrzdRe5BueFrskAZi17BoYbhzysozzoMFB6zWnTKdGC6AxEAbEE5czFR3hbEEJbsm4hCeX2S`<br>
+- BTC: `1ACCQMwHYUkA1v449DvQ9t6dm3yv1enN87`<br>
+<!--- LTC: ``<br>-->
+- BCH: `1ACCQMwHYUkA1v449DvQ9t6dm3yv1enN87`<br>
+<!--- ETH: ``<br>-->
 
  <br><br>
 
