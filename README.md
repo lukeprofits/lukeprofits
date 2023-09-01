@@ -19,7 +19,7 @@
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" alt="Flask" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="" width="40" height="40"/></a> 
