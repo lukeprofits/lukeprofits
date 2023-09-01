@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits">
+  <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits"/>
   <p align="center">Self-taught Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>
   <hr>
 </p>
@@ -11,7 +11,20 @@
 <!-- Languages -->
 <h3 align="left">Languages:</h3>
 <p>
-<a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a> </p>
+<a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="40" height="40"/></a>
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+
+</p>
 
 <!-- stats -->
 <p align="center">
