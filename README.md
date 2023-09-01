@@ -15,6 +15,10 @@
 <a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <!-- stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true">
+</p>
+
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" /></p>
 
