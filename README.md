@@ -5,12 +5,8 @@
 </p>
 
 <!-- info about me -->
-- Most of my public repos focus on XMR, which I believe better embody Bitcoin's original intent as a peer-to-peer electronic cash system.
-
-<!-- Icon imports -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-          
+- Most of my public repos focus on XMR, which I believe better embody Bitcoin's original intent as a peer-to-peer electronic cash system.          
+<br><br>
 
 <!-- Languages -->
 <h3 align="left">Tools & Languages:</h3>
@@ -30,7 +26,7 @@
 <a href="https://www.getmonero.org/" target="_blank"> <img src="https://cryptologos.cc/logos/monero-xmr-logo.svg" alt="Monero" width="40" height="40"/></a> 
 </p>
 
-<br>
+<br><br>
 <!-- stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&theme=dark&count_private=true&locale=en&layout=compact" alt="lukeprofits" />
