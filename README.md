@@ -17,10 +17,7 @@
 <p>
 <a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/></a>
-  
-<i class="devicon-aftereffects-plain"></i>
-<i class="devicon-flask-original-wordmark"></i>
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
