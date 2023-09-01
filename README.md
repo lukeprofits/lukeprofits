@@ -16,7 +16,7 @@
 
 <!-- stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&theme=dark&count_private=true&locale=en&layout=compact&" alt="lukeprofits" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&theme=dark&count_private=true&locale=en" alt="lukeprofits" />
   <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&theme=dark&show_icons=true&count_private=true" alt="lukeprofits">
 </p>
 
