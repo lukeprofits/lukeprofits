@@ -30,6 +30,7 @@
 <a href="" target="_blank"> <img src="https://cryptologos.cc/logos/monero-xmr-logo.svg" alt="" width="40" height="40"/></a> 
 </p>
 
+<br>
 <!-- stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&theme=dark&count_private=true&locale=en&layout=compact" alt="lukeprofits" />
