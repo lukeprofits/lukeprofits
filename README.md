@@ -17,9 +17,10 @@
 <!-- stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" />
 </p>
 
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>-->
