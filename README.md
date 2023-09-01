@@ -15,7 +15,7 @@
 <!-- Languages -->
 <h3 align="left">Tools & Languages:</h3>
 <p>
-<a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="" width="40" height="40"/></a> 
@@ -24,10 +24,10 @@
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
