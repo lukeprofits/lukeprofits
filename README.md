@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits">
   <p align="center">Self-taught Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits"></p>
   <hr>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits"></p>
 </p>
 
 <!-- view counter -->
