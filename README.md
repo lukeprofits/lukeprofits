@@ -25,7 +25,8 @@
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="" width="40" height="40"/></a>  
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="" width="40" height="40"/></a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="" width="40" height="40"/></a>
+<a href="" target="_blank"> <img src="https://cryptologos.cc/logos/monero-xmr-logo.svg" alt="" width="40" height="40"/></a> 
 </p>
 
 <!-- stats -->
