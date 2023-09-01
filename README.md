@@ -3,7 +3,7 @@
 </p>
 
 <!-- view counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=0e75b6&style=flat" alt="lukeprofits" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits" /> </p>
 
 <!-- info about me -->
 - Most of my public repos revolve around XMR, because I believe that it has followed the original vision for Bitcoin (peer to peer electronic cash) closer than Bitcoin itself has.  
