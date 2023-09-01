@@ -1,4 +1,6 @@
-<h1 align="center">Hey There 👋, I'm lukeprofits</h1>
+<p align="center">
+  <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=0e75b6&style=flat" alt="lukeprofits" /> </p>
