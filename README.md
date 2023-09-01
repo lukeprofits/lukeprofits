@@ -33,18 +33,7 @@
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" alt="" width="40" height="40"/></a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="" width="40" height="40"/></a> 
 
-
-
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/></a> 
 
 </p>
 
