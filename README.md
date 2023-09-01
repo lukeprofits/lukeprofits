@@ -16,11 +16,11 @@
 
 <!-- stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&show_icons=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&show_icons=true&count_private=true" alt="lukeprofits">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" />
 </p>
 
 </br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" /></p>
+<!-- <p></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>-->
