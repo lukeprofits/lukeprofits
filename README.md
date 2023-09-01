@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hey There 👋, I'm lukeprofits</h1>
 
-<!--
-**lukeprofits/lukeprofits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=0e75b6&style=flat" alt="lukeprofits" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Most of my public repos revolve around XMR, because I believe that it has followed the original vision for Bitcoin (peer to peer electronic cash) closer than Bitcoin itself has.  
+
+
+
+<h3 align="left">Languages:</h3>
+<p>
+<a href="https://python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/> </a> </p>
+
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&show_icons=true&locale=en&layout=compact" alt="lukeprofits" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>
