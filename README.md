@@ -2,12 +2,7 @@
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits">
   <p align="center">Self-taught Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>
   <hr>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits"></p>
 </p>
-
-<!-- view counter -->
-
-
 
 <!-- info about me -->
 - Most of my public repos focus on XMR, which I believe better embody Bitcoin's original intent as a peer-to-peer electronic cash system.
@@ -28,3 +23,6 @@
 <!-- <p></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>-->
+
+<!-- view counter -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits"></p>
