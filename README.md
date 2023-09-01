@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits">
+  <hr>
 </p>
 
 <!-- view counter -->
