@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits" /> </p>
 
 <!-- info about me -->
-- Most of my public repos revolve around XMR, because I believe that it has followed the original vision for Bitcoin (peer to peer electronic cash) closer than Bitcoin itself has.  
+- Most of my public repos focus on XMR, which I believe better embody Bitcoin's original intent as a peer-to-peer electronic cash system.
 
 
 <!-- Languages -->
