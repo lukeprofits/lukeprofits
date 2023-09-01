@@ -9,8 +9,8 @@
 <br><br>
 
 <!-- Languages -->
-<h3 align="left">Tools & Languages:</h3>
-<p>
+<h3 align="center">Tools & Languages:</h3>
+<p align="center">
 <a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" alt="Flask" width="40" height="40"/></a> 
 <a href="https://python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/></a> 
