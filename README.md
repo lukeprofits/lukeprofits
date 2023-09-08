@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits"/>
-  <p align="center">Self-taught Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>
+  <p align="center">Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>
   <hr>
 </p>
 
