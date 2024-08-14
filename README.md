@@ -36,7 +36,7 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="html" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css" width="40" height="40"/></a>  
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" alt="Flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="Flask" width="40" height="40"/></a>
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"/></a>  
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/></a> 
