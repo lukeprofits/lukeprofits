@@ -2,8 +2,6 @@
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits"/>
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&width=600&color=FFFF00&lines=Advancing+Individual+Liberty+with+Freedom-Tech" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=FFFF00&width=600&lines=" alt="Typing SVG" /></a>
 </p>
 
   <hr>
