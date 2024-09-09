@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.lukeprofits.com/cdn/shop/files/LOGO_WHITE.png" alt="Luke Profits"/>
   <!--<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>-->
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Advancing liberty with freedom-tech." alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=600&lines=Advancing liberty with freedom-tech" alt="Typing SVG" /></a> </p>
   <!--<p align="center">Python developer and remote team leader, specializing in web scraping, bots, and website development.</p>-->
   <hr>
 </p>
