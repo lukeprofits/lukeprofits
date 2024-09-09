@@ -3,7 +3,7 @@
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&width=600&lines=Advancing individual liberty through freedom-tech" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=FFFF00&center=true&width=600&lines=Advancing+Individual+Liberty+with+Freedom-Tech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=FFFF00&width=600&lines=Advancing+Individual+Liberty+with+Freedom-Tech" alt="Typing SVG" /></a>
 </p>
 
   <hr>
