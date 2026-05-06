@@ -34,17 +34,6 @@
 
 
  
-<br><br>
-<!-- stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukeprofits&theme=dark&count_private=true&locale=en&layout=compact" alt="lukeprofits" />
-  <img src="https://github-readme-stats.vercel.app/api/?username=lukeprofits&theme=dark&show_icons=true&count_private=true&layout=compact" alt="lukeprofits">
-</p>
-
-</br>
-<!-- <p></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeprofits&show_icons=true&locale=en" alt="lukeprofits" /></p>-->
-
+<br>
 <!-- view counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lukeprofits&label=Profile%20views&color=000000&style=flat" alt="lukeprofits"></p>
